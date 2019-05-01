@@ -4,7 +4,7 @@ An assignment for CSC190 course (*at the University of Toronto*) which simulates
 
 <p style="font-size:12px">The structure of the code as been improved in comparison to the submission to improve organization and readability of the program.</p>
 
-<center><img alt="GIF Simulation" src="https://media.giphy.com/media/l03ArGwcL7tyA1aQh8/source.gif" width="50%"></center>
+<center><img alt="GIF Simulation" src="cfd.gif" width="50%"></center>
 
 ### Required Libraries
 
