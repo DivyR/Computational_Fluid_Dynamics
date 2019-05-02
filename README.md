@@ -2,9 +2,9 @@
 
 An assignment for CSC190 course (*at the University of Toronto*) which simulates the thermal-fluid dynamics of a system using differential-burger equations and libraries to generate a visualization.
 
-<p style="font-size:12px">The structure of the code as been improved in comparison to the submission to improve organization and readability of the program.</p>
+<p id="small-text" style="font-size:10px;">The structure of the code as been improved in comparison to the submission to improve organization and readability of the program.</p>
 
-<center><img alt="GIF Simulation" src="https://media.giphy.com/media/l03ArGwcL7tyA1aQh8/source.gif" width="50%"></center>
+<p align="center"><img id="gif" alt="GIF Simulation" src="cfd.gif" width="50%"></p>
 
 ### Required Libraries
 
