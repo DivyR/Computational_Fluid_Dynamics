@@ -1,12 +1,10 @@
-# Fluid_Dynamics_Simulation
+# Computational_Fluid_Dynamics
 
-An assignment for CSC190 course (*at the University of Toronto*) which simulates the thermal-fluid dynamics of a system using differential-burger equations and libraries to generate a visualization.
+Uses computational fluid dynamics to simulate the velocity disturbance in a nozzel. Burgers' partial differential equation is used to model the system, with libraries for efficiency and visualization.
 
-<p id="small-text" style="font-size:10px;">The structure of the code as been improved in comparison to the submission to improve organization and readability of the program.</p>
+<p align="center"><img alt="GIF Simulation" src="cfd_simulation.gif" width="50%"></p>
 
-<p align="center"><img alt="GIF Simulation" src="cfd.gif" width="50%"></p>
-
-### Required Libraries
+### Libraries
 
 [numpy]: <https://pypi.org/project/numpy/>
 [matplotlib]: <https://pypi.org/project/matplotlib/>
